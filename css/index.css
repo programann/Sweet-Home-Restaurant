@@ -1,0 +1,24 @@
+body{
+    background-color: gray;
+}
+.head{
+    text-align: center;
+    border: 20px solid grey;
+    height: 300px;
+    margin: 20px;
+    background-image: url(https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=600);
+    color: azure;
+    border-radius: 10px;
+}
+.flex-container{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+.flex-item{
+    border: 15px solid grey;
+    width: 400px;
+    height: 400px;
+    align-items: baseline;
+    color: azure;  
+}
