@@ -1,6 +1,10 @@
 body{
     background-color: gray;
 }
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
 .head{
     text-align: center;
     border: 20px solid grey;
