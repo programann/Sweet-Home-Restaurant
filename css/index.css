@@ -16,8 +16,10 @@ body{
 }
 .flex-container{
     display: flex;
-    gap: 5px;
+    gap: 50px;
     flex-wrap: wrap;
+    justify-content: center;
+
 }
 .flex-item{
     border: 15px solid grey;
