@@ -2,11 +2,15 @@ body{
     background-color: azure;
 }
 .head{
-    border: 1px solid gray;
+    border: 50px solid gray;
     width: 25%%;
     height: 250px;
     padding: 50px;
     border-radius: 100px;
     background-image: url(https://media.istockphoto.com/id/1397709076/photo/shot-if-an-empty-cafe-after-hours.jpg?s=612x612&w=0&k=20&c=QTDLf46puWhZ9hz7sc6oBG2oaWv4jpcvYQOKpq4d4Vc=)
-
+    
+}
+nav{
+    border: 10px solid silver;
+    width: 600px;
 }
